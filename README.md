@@ -1,4 +1,5 @@
 # hiring-fullstack-todo
+<<<<<<< HEAD
 
 A full-stack TODO application built with React, Node.js/Express, and MongoDB.
 
@@ -40,3 +41,6 @@ This starts:
 ---
 
 See individual `README.md` files in `client/` and `server/` for more details.
+=======
+Full-stack Task Management Platform for hiring assignment
+>>>>>>> 6f52093eb90e2049da93f47e0c3564ede28a2783
